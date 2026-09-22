@@ -1,2 +1,3 @@
 # odin-recipes
-test project using simple images and text
+V 1.1
+a simple recipe using simple html css and pages
